@@ -1,4 +1,6 @@
-# Simpler Maths - F# library to help you solve exercises/katas/koans etc.
+# Simpler Maths
+
+F# library to help you solve exercises/katas/koans etc.
 
 ## Reasoning
 

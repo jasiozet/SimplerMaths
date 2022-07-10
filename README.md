@@ -32,7 +32,7 @@ Examples:
 * Prepare a nuget package
 * Publish a nuget package
 * ```mod``` / ```.mod``` - modulo operator
-* ```pow``` / ```.pow``` - power operator
+* ```.pown``` - infix for ```pown``` function
 * Github actions for CI pipeline
 
 ## Stuff used:

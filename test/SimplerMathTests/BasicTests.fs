@@ -1,4 +1,4 @@
-module Tests
+module BasicTests
 
 open Xunit
 open SimplerMath

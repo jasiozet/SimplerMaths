@@ -28,7 +28,6 @@ Examples:
 
 ## Todo:
 
-* More tests using [FsCheck](https://fscheck.github.io/FsCheck/)
 * Prepare a nuget package
 * Publish a nuget package
 * ```mod``` / ```.mod``` - modulo operator
@@ -39,3 +38,4 @@ Examples:
 
 * [xUnit](https://xunit.net/)
 * [FsUnit](https://fsprojects.github.io/FsUnit/)
+* [FsCheck](https://fscheck.github.io/FsCheck/)
